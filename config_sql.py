@@ -1,5 +1,0 @@
-host = 'localhost'
-user = 'root'
-password = '83252454'
-db_name = 'db_books'
-port = '3306'
